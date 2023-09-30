@@ -7,8 +7,8 @@ Cyclistic is a fictional bike-sharing program that features more than 5,800 bike
 
 # 🔗 Links
 
-Tableau Dashboard - created a dashboard in Tableau summarizing the data.
+Tableau Dashboard: I created a dashboard in Tableau summarizing the data.
 
 # 📁 Files
-FinalAnalysis.R - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R.
-FinalAnalysisTableau.R - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
+<FinalAnalysis_Python> - analyzed the data set from Case Study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R.
+FinalAnalysisTableau_Python - create a specific data frame to use in Tableau. I deleted unnecessary columns to make the code run quicker in Tableau.
