@@ -7,4 +7,4 @@ Cyclistic is a fictional bike-sharing program that features more than 5,800 bike
 
 # 🔗 Links
 
-Tableau Dashboard: I created a dashboard in Tableau summarizing the data.
+For project detail please my site: https://uzeyirktk-0c65bf.webflow.io/
