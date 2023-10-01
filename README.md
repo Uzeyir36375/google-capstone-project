@@ -7,4 +7,4 @@ Cyclistic is a fictional bike-sharing program that features more than 5,800 bike
 
 # 🔗 Links
 
-For project detail please my site: https://uzeyirktk-0c65bf.webflow.io/
+For project detail please visit my site here: https://uzeyirktk-0c65bf.webflow.io/
